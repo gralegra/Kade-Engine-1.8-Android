@@ -17,4 +17,6 @@ winter-horrorland:monster-christmas:5
 senpai:senpai:6
 roses:senpai:6
 thorns:spirit:6
-PicoTreMixed:pico:
+PicoTreMixed:pico:7
+picoB:pico:7
+rosesB:senpai:7
